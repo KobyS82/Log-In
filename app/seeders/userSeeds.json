@@ -1,0 +1,27 @@
+[
+  {
+    "username": "koby",
+    "email": "koby@gmail.com",
+    "password": "password"
+  },
+  {
+    "username": "xuri",
+    "email": "xuri@gmail.com",
+    "password": "meow"
+  },
+  {
+    "username": "dan",
+    "email": "dan@hotmail.com",
+    "password": "dummy"
+  },
+  {
+    "username": "zach",
+    "email": "zach@yahoo.com",
+    "password": "animeiscool"
+  },
+  {
+    "username": "ember",
+    "email": "ember@aol.com",
+    "password": "sleepy"
+  }
+]
